@@ -19,3 +19,6 @@ li{
 .last-child{
 	color:red;
 }
+.first-child{
+	color:white;
+}
